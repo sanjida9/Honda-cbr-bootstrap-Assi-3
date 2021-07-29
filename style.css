@@ -1,0 +1,32 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.bg-color {
+  background-color: #264653;
+}
+.p-color {
+  color: #e0e0e0;
+}
+button {
+  background-color: #e76f51;
+}
+.primary-color {
+  color: #e76f51;
+}
+.grayscale img {
+  filter: grayscale(100%);
+}
+.accordion-ans {
+  color: #777373;
+}
+.fa-star {
+  color: #e76f51;
+}
+
+.text-blue {
+  color: #23a6f0;
+}
+.carousel-bg {
+  background-color: #f9e79f;
+}
